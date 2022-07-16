@@ -1,0 +1,17 @@
+export const AUTH_REQUEST = "AUTH_REQUEST";
+export const REGISTER_USER = "REGISTER_USER";
+export const CLEAR_STATES = "CLEAR_STATES";
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const FORGOT_USER = "FORGOT_USER";
+export const GETPROFILE_USER = "GETPROFILE_USER";
+export const UPDATEPROFILE_USER = "UPDATEPROFILE_USER";
+export const IMAGEUPLOAD_USER = "IMAGEUPLOAD_USER";
+export const ADDPIN_USER = "ADDPIN_USER";
+export const GETPIN_USER = "GETPIN_USER";
+export const ADD_PIN_DATA = "ADD_PIN_DATA";
+export const BLOCK_USER = "BLOCK_USER";
+export const CHANGEPASSWORD_USER = "CHANGEPASSWORD_USER";
+export const USER_ID = "USER_ID";
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const FEED_BACK = "FEED_BACK";
